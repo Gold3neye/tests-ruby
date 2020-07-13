@@ -49,9 +49,11 @@ describe "#multiply" do
 
   it "multiplies two other numbers"
     # one other test here, don't forget do end ;)
+  end
 
   it "multiplies two other numbers, one of them being 0"
     # one last test, with 0 in it
+  end
 
 end
 
