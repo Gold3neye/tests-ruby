@@ -42,3 +42,12 @@ Basically, this is "error-driven development"... you'll keep running tests, hitt
 ### Credit
 
 This is forked from [https://github.com/alexch/learn_ruby](https://github.com/alexch/learn_ruby), its original creator.
+
+These exercises were completed with a lot of patience, excitement, some yelling, lots of frustration, but especially with hardheaded stubborness in the face of ridiculous problems by myself and the following contributors. This is a team I am happy to work with anyday of the week! Mathieu Joly, Daniel Stavroff, Vivien Ploix, David Beraud, Stanislas Basquin, Melchior Pedro-Rousselin.
+
+Contributors :
+- [:fire: Vivien PLOIX](https://github.com/Vivien-Ploix)
+- [:seedling: Mathieu JOLY](https://github.com/mathieu-superpose)
+- [:v: Stanislas BASQUIN](https://github.com/StanislasBASQUIN)
+- [:v: Daniel Stavroff](https://github.com/Inigo-santiu)
+- [:v: David Beraud](https://github.com/DavidBeraud/)
