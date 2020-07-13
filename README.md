@@ -43,4 +43,9 @@ Basically, this is "error-driven development"... you'll keep running tests, hitt
 
 This is forked from [https://github.com/alexch/learn_ruby](https://github.com/alexch/learn_ruby), its original creator.
 
-Contributeurs : Mathieu Joly, Daniel Stavroff, Vivien Ploix, Stanislas Basquin, David Beraud 🚀
+Contributeurs :
+- [:fire: Vivien PLOIX](https://github.com/Vivien-Ploix)
+- [:seedling: Mathieu JOLY](https://github.com/mathieu-superpose)
+- [:v: Stanislas BASQUIN](https://github.com/StanislasBASQUIN)
+- [:v: Daniel Stavroff](https://github.com/Inigo-santiu)
+- [:v: David Beraud](https://github.com/DavidBeraud/)
